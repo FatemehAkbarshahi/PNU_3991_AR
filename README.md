@@ -11,7 +11,7 @@
 ## بخش عمومی
 ---------
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/FatemehAkbarshahi/PNU_3991_AR/blob/main/General/XX_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی فعالیت های مشترک](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/General/BS_GeneralSection_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی فعالیت های مشترک](https://github.com/FatemehAkbarshahi/PNU_3991_AR/blob/main/General/XX_GeneralSection_CheckList_AR_3991.pdf)
 - [ارزیابی درس روش پژوهش و ارائه](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/General/BS_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 ----------------
 
