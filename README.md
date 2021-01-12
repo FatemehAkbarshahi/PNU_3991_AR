@@ -4,7 +4,7 @@
 - [PNU_3991_AR](https://github.com/FatemehAkbarshahi/PNU_3991_AR)
 - [GitHub](https://github.com/FatemehAkbarshahi)
 - [Resume](https://fatemehakbarshahi.github.io/Resume/) 
-- [SOP](https://bita-shirazi.github.io/SOP-1/)
+- [SOP](https://fatemehakbarshahi.github.io/SOP/)
 - [Javascript Certification](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/JavaScript_certificate.jpg)
 - [jlord-patchwork](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/IMG_20201227_230729.png?raw=true)
 ----------------
