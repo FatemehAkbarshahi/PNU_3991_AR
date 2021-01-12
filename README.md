@@ -6,7 +6,7 @@
 - [Resume](https://fatemehakbarshahi.github.io/Resume/) 
 - [SOP](https://fatemehakbarshahi.github.io/SOP/)
 - [Javascript Certification](https://github.com/FatemehAkbarshahi/PNU_3991_AR/blob/fcab004eef2e96bc35281868c824dc19f29d443b/JavaScript_certificate.jpg?raw=true)
-- [jlord-patchwork](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/IMG_20201227_230729.png?raw=true)
+- [jlord-patchwork](https://github.com/FatemehAkbarshahi/PNU_3991_AR/blob/9ca45c76d68f722a6c37e608850cb8bb62d4be3a/jlord.png?raw=true)
 ----------------
 ## بخش عمومی
 ---------
