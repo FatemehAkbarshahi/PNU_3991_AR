@@ -21,7 +21,7 @@
 2.  [مقاله پایان نامه](https://conservancy.umn.edu/handle/11299/182784)
 3. [ارائه کتبی لاتک](https://github.com/FatemehAkbarshahi/PNU_3991_AR/tree/main/Latex)
 4. [ارائه شفاهی لاتک](https://drive.google.com/file/d/1LNF3RbjL8b_sTcnomyD7SzbipZf7eBtq/view?usp=drivesdk)
-
+5. [بیمر لاتک](https://github.com/FatemehAkbarshahi/PNU_3991_AR/tree/main/beamer)
 ----------------
 ## گروه ها
 
